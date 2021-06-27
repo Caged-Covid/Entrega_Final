@@ -10,7 +10,7 @@ Professor: Fernando Masanori.
 
 Intregrantes do Grupo:
 
-Leticia Macedo Prudente de Carvalho
-Roberta Cristina de Abreu
-Thais Bitencourt de meneses
-Yan Rodrigues de Azevedo
+*Leticia Macedo Prudente de Carvalho
+*Roberta Cristina de Abreu
+*Thais Bitencourt de meneses
+*Yan Rodrigues de Azevedo
