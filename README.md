@@ -36,6 +36,10 @@ Intregrantes do Grupo:
     
 - 5 – Quero poder visualizar as causas de demissão formalizadas pelos empregadores distribuídas por sexo, raça/cor e faixa etária.
  
+ 
+### [Análise dos requisitos 1 a 4](Analises-Caged.ipynb)
+### [Análise do requisito 5](2020Caged.ipynb)
+
 ---------------------------------------------------------- 
 
 ## Requisitos Adicionais:
